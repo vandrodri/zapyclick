@@ -1,0 +1,6 @@
+{
+  "name": "ZapyClick - Faxina Digital",
+  "description": "Landing page for the Faxina Digital service by ZapyClick, offering digital organization for local businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

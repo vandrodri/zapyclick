@@ -11,7 +11,7 @@ export const Header = () => {
           className="flex items-center gap-4 md:gap-5"
         >
           <img 
-            src="https://i.postimg.cc/HxPBjzjY/zapy-click-logo-dubai.png" 
+            src="https://i.postimg.cc/RZhVBKfh/icone-zapy-click.png" 
             alt="ZapyClick Logo" 
             className="h-10 md:h-12 w-auto object-contain shrink-0"
           />

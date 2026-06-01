@@ -38,7 +38,7 @@ export const Footer = () => {
       <div className="max-w-5xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8 text-center md:text-left">
         <div className="flex flex-col items-center md:items-start space-y-4">
           <img 
-            src="https://i.postimg.cc/HxPBjzjY/zapy-click-logo-dubai.png" 
+            src="https://i.postimg.cc/RZhVBKfh/icone-zapy-click.png" 
             alt="ZapyClick Logo" 
             className="h-10 w-auto object-contain opacity-80"
           />
